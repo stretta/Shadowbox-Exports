@@ -1,0 +1,60 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Rnbo-Compressor",
+    "origin": "Rnbo-Compressor",
+    "type": "patcher",
+    "subtype": "Undefined",
+    "embed": 1,
+    "snapshot": {
+        "valuedictionary": {
+            "parameter_values": {
+                "Browse": 8.0,
+                "Input": 0.0,
+                "MIDI": 0.0,
+                "blob": {
+                    "rnbo~": [
+                        {
+                            "filetype": "C74Snapshot",
+                            "version": 2,
+                            "minorversion": 0,
+                            "name": "Compressor",
+                            "origin": "Compressor",
+                            "type": "rnbo",
+                            "subtype": "",
+                            "embed": 1,
+                            "snapshot": {
+                                "__sps": {
+                                    "Compensation~": {                                    },
+                                    "Compression~": {                                    },
+                                    "Volume&Clip~": {                                    },
+                                    "Lookahead~": {                                    }
+                                },
+                                "sustain": {
+                                    "value": 0.0
+                                },
+                                "attack": {
+                                    "value": 0.0
+                                },
+                                "__presetid": "Compressor",
+                                "softclip": {
+                                    "value": 0.0
+                                },
+                                "comp": {
+                                    "value": 0.0
+                                },
+                                "volume": {
+                                    "value": 0.0
+                                },
+                                "lookahead": {
+                                    "value": 0.0
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

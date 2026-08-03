@@ -1,0 +1,48 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Rnbo-Looper",
+    "origin": "Rnbo-Looper",
+    "type": "patcher",
+    "subtype": "Undefined",
+    "embed": 1,
+    "snapshot": {
+        "valuedictionary": {
+            "parameter_values": {
+                "Browse": 7.0,
+                "Input": 0.0,
+                "MIDI": 0.0,
+                "blob": {
+                    "rnbo~": [
+                        {
+                            "filetype": "C74Snapshot",
+                            "version": 2,
+                            "minorversion": 0,
+                            "name": "Looper",
+                            "origin": "Looper",
+                            "type": "rnbo",
+                            "subtype": "",
+                            "embed": 1,
+                            "snapshot": {
+                                "reverse": {
+                                    "value": 0.0
+                                },
+                                "mode": {
+                                    "value": 2.0
+                                },
+                                "volume": {
+                                    "value": 0.0
+                                },
+                                "transp": {
+                                    "value": 0.0
+                                },
+                                "__presetid": "Looper"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

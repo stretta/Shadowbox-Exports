@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "tuner",
+    "origin": "Tuner",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "Convert": {            }
+        },
+        "NoiseThreshold": {
+            "value": 0.0
+        },
+        "Tuner": {
+            "value": 0.0
+        },
+        "Smooth": {
+            "value": 0.0
+        },
+        "__presetid": "Tuner"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "LFO",
+    "origin": "LFO",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "Subdivisions": {
+            "value": 7.0
+        },
+        "ClockRate": {
+            "value": 4.0
+        },
+        "FMamt": {
+            "value": 0.0
+        },
+        "Level": {
+            "value": 0.0
+        },
+        "__presetid": "LFO",
+        "ClockMode": {
+            "value": 0.0
+        },
+        "Bias": {
+            "value": 0.0
+        },
+        "Wave": {
+            "value": 0.0
+        }
+    }
+}

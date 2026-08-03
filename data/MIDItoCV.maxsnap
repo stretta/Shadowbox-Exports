@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "MIDItoCV",
+    "origin": "MIDItoCV",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "ChromaticTranspose": {
+            "value": 0.0
+        },
+        "VoltageShift": {
+            "value": 1.0
+        },
+        "Portamento": {
+            "value": 0.0
+        },
+        "VelVoltageScale": {
+            "value": 0.0
+        },
+        "__presetid": "MIDItoCV"
+    }
+}

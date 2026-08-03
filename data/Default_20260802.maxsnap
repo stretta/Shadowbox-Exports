@@ -1,0 +1,68 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Default",
+    "origin": "RotaVibe",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "__sps": {
+            "PhasingHigh~": {            },
+            "RotationHigh~": {            },
+            "Xover~": {            },
+            "PhasingLow~": {            },
+            "FlangingLow~": {            },
+            "DriveHigh~": {            },
+            "RotationLow~": {            },
+            "TapTempo": {            },
+            "Color~": {            },
+            "FlangingHigh~": {            },
+            "Balance~": {            },
+            "LFO~": {            },
+            "DriveLow~": {            },
+            "Mix~": {            }
+        },
+        "Balance": {
+            "value": 0.0
+        },
+        "Flanging": {
+            "value": 0.0
+        },
+        "rate": {
+            "value": 0.0
+        },
+        "DriveHigh": {
+            "value": 0.0
+        },
+        "PanHigh": {
+            "value": 0.0
+        },
+        "Color": {
+            "value": 0.0
+        },
+        "PanLow": {
+            "value": 0.0
+        },
+        "Phasing": {
+            "value": 0.0
+        },
+        "RateHigh": {
+            "value": 0.0
+        },
+        "Mix": {
+            "value": 0.0
+        },
+        "RateLow": {
+            "value": 0.0
+        },
+        "Xover": {
+            "value": 0.0
+        },
+        "DriveLow": {
+            "value": 0.0
+        },
+        "__presetid": "74a09b97-f360-11ea-9b97-34363bd3ed8c"
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Falling",
+    "origin": "Shimmer",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "feedback": {
+            "value": 80
+        },
+        "chorus": {
+            "value": 100
+        },
+        "pitch": {
+            "value": -0.5
+        },
+        "delay": {
+            "value": 250
+        },
+        "size": {
+            "value": 75
+        },
+        "jitter": {
+            "value": 50
+        },
+        "pitchvol": {
+            "value": 0
+        },
+        "decay": {
+            "value": 70
+        },
+        "damp": {
+            "value": 20
+        },
+        "octvol": {
+            "value": 0
+        },
+        "__sps": {
+            "p_obj-25": {
+                "__sps": {
+                    "p_obj-4": {                    },
+                    "p_obj-3": {                    }
+                }
+            },
+            "p_obj-27": {
+                "__sps": {
+                    "p_obj-30": {                    }
+                }
+            },
+            "p_obj-1": {            },
+            "p_obj-4": {
+                "__sps": {
+                    "CombR~": {                    },
+                    "RoomB~": {                    },
+                    "p_obj-3": {                    },
+                    "CombL~": {                    },
+                    "Shuffle~": {                    },
+                    "Damp~": {                    },
+                    "RoomA~": {                    },
+                    "Allpass~": {                    }
+                }
+            },
+            "p_obj-26": {            },
+            "p_obj-11": {
+                "__sps": {
+                    "p_obj-4": {                    },
+                    "p_obj-3": {                    }
+                }
+            },
+            "p_obj-7": {            },
+            "Mix~[1]": {            },
+            "p_obj-6": {
+                "__sps": {
+                    "p_obj-4": {                    },
+                    "p_obj-3": {                    }
+                }
+            }
+        },
+        "diff": {
+            "value": 50
+        },
+        "revvol": {
+            "value": 100
+        },
+        "window": {
+            "value": 250
+        },
+        "octdamp": {
+            "value": 50
+        },
+        "mix": {
+            "value": 50
+        },
+        "__presetid": "untitled"
+    }
+}

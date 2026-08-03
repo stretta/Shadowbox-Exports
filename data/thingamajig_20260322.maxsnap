@@ -1,0 +1,102 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "thingamajig",
+    "origin": "MacroSource",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "3lfo": {
+                "subdivisions": {
+                    "value": 4.0
+                },
+                "rate": {
+                    "value": 4.0
+                },
+                "level": {
+                    "value": 0.0
+                },
+                "bias": {
+                    "value": 0.0
+                },
+                "mode": {
+                    "value": 0.0
+                },
+                "wave": {
+                    "value": 0.0
+                }
+            },
+            "step16": {
+                "trigger_time": {
+                    "value": 10.0
+                },
+                "steps": {
+                    "value": 0.0
+                },
+                "rate": {
+                    "value": 150.0
+                },
+                "metro": {
+                    "value": 1.0
+                },
+                "clock_mode": {
+                    "value": 0.0
+                }
+            },
+            "2lfo": {
+                "subdivisions": {
+                    "value": 4.0
+                },
+                "rate": {
+                    "value": 4.0
+                },
+                "level": {
+                    "value": 0.0
+                },
+                "bias": {
+                    "value": 0.0
+                },
+                "mode": {
+                    "value": 0.0
+                },
+                "wave": {
+                    "value": 0.0
+                }
+            },
+            "1lfo": {
+                "subdivisions": {
+                    "value": 4.0
+                },
+                "rate": {
+                    "value": 4.0
+                },
+                "level": {
+                    "value": 0.0
+                },
+                "bias": {
+                    "value": 0.0
+                },
+                "mode": {
+                    "value": 0.0
+                },
+                "wave": {
+                    "value": 0.0
+                }
+            },
+            "noise": {
+                "level": {
+                    "value": 0.0
+                }
+            },
+            "quantizer": {
+                "scale": {
+                    "value": 2741.0
+                }
+            }
+        },
+        "__presetid": "MacroSource"
+    }
+}

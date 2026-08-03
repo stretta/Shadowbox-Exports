@@ -1,0 +1,116 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Apreg 01",
+    "origin": "MacroSource",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "2LFO": {
+                "Subdivisions": {
+                    "value": 7.0
+                },
+                "ClockRate": {
+                    "value": 4.0
+                },
+                "FMamt": {
+                    "value": 0.0
+                },
+                "Level": {
+                    "value": 0.0
+                },
+                "ClockMode": {
+                    "value": 0.0
+                },
+                "Bias": {
+                    "value": 0.0
+                },
+                "Wave": {
+                    "value": 0.0
+                }
+            },
+            "Noise": {
+                "Bias": {
+                    "value": 0.0
+                },
+                "Level": {
+                    "value": 0.0
+                }
+            },
+            "3LFO": {
+                "Subdivisions": {
+                    "value": 7.0
+                },
+                "ClockRate": {
+                    "value": 4.0
+                },
+                "FMamt": {
+                    "value": 0.0
+                },
+                "Level": {
+                    "value": 0.0
+                },
+                "ClockMode": {
+                    "value": 0.0
+                },
+                "Bias": {
+                    "value": 0.0
+                },
+                "Wave": {
+                    "value": 0.0
+                }
+            },
+            "Quantizer": {
+                "Scale": {
+                    "value": 2741.0
+                },
+                "ChromaticTranspose": {
+                    "value": 0.0
+                },
+                "Portamento": {
+                    "value": 0.0
+                },
+                "ScalarTranspose": {
+                    "value": 0.0
+                }
+            },
+            "TriggerSeq": {            },
+            "1LFO": {
+                "Subdivisions": {
+                    "value": 7.0
+                },
+                "ClockRate": {
+                    "value": 4.0
+                },
+                "FMamt": {
+                    "value": 0.0
+                },
+                "Level": {
+                    "value": 0.0
+                },
+                "ClockMode": {
+                    "value": 0.0
+                },
+                "Bias": {
+                    "value": 0.0
+                },
+                "Wave": {
+                    "value": 0.0
+                }
+            }
+        },
+        "TempoBPM": {
+            "value": 120.0
+        },
+        "TriggerOutputVoltage": {
+            "value": 0.0
+        },
+        "OutputOctaveBias": {
+            "value": 0.0
+        },
+        "__presetid": "MacroSource"
+    }
+}

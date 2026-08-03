@@ -1,0 +1,76 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Default",
+    "origin": "Freeze",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "direct": {
+            "value": 0.0
+        },
+        "pitchjit": {
+            "value": 0.0
+        },
+        "highcut": {
+            "value": 0.0
+        },
+        "panjit": {
+            "value": 0.0
+        },
+        "lowcut": {
+            "value": 0.0
+        },
+        "__presetid": "Freeze",
+        "__sps": {
+            "Direct~": {            },
+            "Freezer-Voice~[1]": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ],
+            "Freeze": {            },
+            "EQ&Volume~": {            },
+            "Freezer-Voice~": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ],
+            "Transp~": {            },
+            "Attack~": {            }
+        },
+        "transp": {
+            "value": 0.0
+        },
+        "ampjit": {
+            "value": 0.0
+        },
+        "freeze": {
+            "value": 0.0
+        },
+        "autodel": {
+            "value": 0.0
+        },
+        "fade": {
+            "value": 0.0
+        },
+        "volume": {
+            "value": 0.0
+        },
+        "auto": {
+            "value": 0.0
+        }
+    }
+}

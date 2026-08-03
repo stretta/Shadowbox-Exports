@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Default",
+    "origin": "Looper",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "reverse": {
+            "value": 0.0
+        },
+        "mode": {
+            "value": 2.0
+        },
+        "volume": {
+            "value": 0.0
+        },
+        "transp": {
+            "value": 0.0
+        },
+        "__presetid": "Looper"
+    }
+}

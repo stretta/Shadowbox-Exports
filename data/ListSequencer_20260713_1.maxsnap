@@ -1,0 +1,50 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "ListSequencer",
+    "origin": "ListSequencer",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "p_obj-90": {            },
+            "p_obj-51": {
+                "__sps": {
+                    "p_obj-16": {                    }
+                }
+            },
+            "Clock": {
+                "ClockInterval": {
+                    "value": 240.0
+                },
+                "Swing": {
+                    "value": 0.0
+                },
+                "SwingAmt": {
+                    "value": 0.5
+                },
+                "Clock": {
+                    "value": 1.0
+                }
+            }
+        },
+        "Scale": {
+            "value": 2741.0
+        },
+        "ChromaticTranspose": {
+            "value": 0.0
+        },
+        "Root": {
+            "value": 60.0
+        },
+        "ScalarTranspose": {
+            "value": 0.0
+        },
+        "TriggerSource": {
+            "value": 0.0
+        },
+        "__presetid": "ListSequencer"
+    }
+}

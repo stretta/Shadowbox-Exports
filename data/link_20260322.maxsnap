@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "link",
+    "origin": "Link",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "TempoBPM": {
+            "value": 20.0
+        },
+        "Subdivisions": {
+            "value": 7.0
+        },
+        "OutputVoltage": {
+            "value": 0.0
+        },
+        "TransportEnable": {
+            "value": 1.0
+        },
+        "__presetid": "Link"
+    }
+}

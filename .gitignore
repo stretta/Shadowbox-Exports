@@ -1,0 +1,9 @@
+.DS_Store
+_DeletedItems/
+
+/media/*
+!/media/ppg_evu10_wavetable_bank_128x128x128_s16.wav
+!/media/bosch.256.rom.aif
+!/media/morph.256.rom.aif
+!/media/vector1.256.rom.aif
+!/media/vector2.256.rom.aif

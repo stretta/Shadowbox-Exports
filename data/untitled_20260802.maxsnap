@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "untitled",
+    "origin": "SampleAndHold",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "TempoBPM": {
+            "value": 120.0
+        },
+        "Subdivisions": {
+            "value": 7.0
+        },
+        "TransportEnable": {
+            "value": 1.0
+        },
+        "TriggerSource": {
+            "value": 1.0
+        },
+        "__presetid": "SampleAndHold"
+    }
+}

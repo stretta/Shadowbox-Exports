@@ -1,0 +1,31 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Palm",
+    "origin": "Palm",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "Wavetable": {
+            "value": 0.0
+        },
+        "FMamt": {
+            "value": 0.0
+        },
+        "__presetid": "Palm",
+        "OutputLevel": {
+            "value": 1.0
+        },
+        "WaveBias": {
+            "value": 0.0
+        },
+        "OctaveBias": {
+            "value": 2.0
+        },
+        "WaveModAmt": {
+            "value": 60.0
+        }
+    }
+}

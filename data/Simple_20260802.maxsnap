@@ -1,0 +1,31 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Simple",
+    "origin": "TestSynth",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "poly": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ]
+        },
+        "Spread": {
+            "value": 50.0
+        },
+        "Release": {
+            "value": 400.0
+        },
+        "__presetid": "TestSynth"
+    }
+}

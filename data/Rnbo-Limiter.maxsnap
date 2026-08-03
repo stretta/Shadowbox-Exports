@@ -1,0 +1,51 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Rnbo-Limiter",
+    "origin": "Rnbo-Limiter",
+    "type": "patcher",
+    "subtype": "Undefined",
+    "embed": 1,
+    "snapshot": {
+        "valuedictionary": {
+            "parameter_values": {
+                "Browse[1]": 4.0,
+                "Input": 0.0,
+                "MIDI": 0.0,
+                "blob": {
+                    "rnbo~": [
+                        {
+                            "filetype": "C74Snapshot",
+                            "version": 2,
+                            "minorversion": 0,
+                            "name": "Limiter",
+                            "origin": "Limiter",
+                            "type": "rnbo",
+                            "subtype": "",
+                            "embed": 1,
+                            "snapshot": {
+                                "release": {
+                                    "value": 0.1
+                                },
+                                "__presetid": "Limiter",
+                                "attack": {
+                                    "value": 0.01
+                                },
+                                "thresh": {
+                                    "value": 0.0
+                                },
+                                "gain": {
+                                    "value": 0.0
+                                },
+                                "lookahead": {
+                                    "value": 0.1
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

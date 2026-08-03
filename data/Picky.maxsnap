@@ -1,0 +1,37 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Picky",
+    "origin": "Compressor",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "__sps": {
+            "Compensation~": {            },
+            "Compression~": {            },
+            "Volume&Clip~": {            },
+            "Lookahead~": {            }
+        },
+        "sustain": {
+            "value": 0
+        },
+        "attack": {
+            "value": 100
+        },
+        "__presetid": "untitled",
+        "softclip": {
+            "value": 0
+        },
+        "comp": {
+            "value": 50
+        },
+        "volume": {
+            "value": 0
+        },
+        "lookahead": {
+            "value": 1
+        }
+    }
+}

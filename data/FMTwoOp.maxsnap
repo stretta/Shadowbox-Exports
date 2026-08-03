@@ -1,0 +1,22 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "FMTwoOp",
+    "origin": "FMTwoOp",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "ModulatorRatio": {
+            "value": 1.0
+        },
+        "OctaveBias": {
+            "value": 2.0
+        },
+        "ModulationIndex": {
+            "value": 1.0
+        },
+        "__presetid": "FMTwoOp"
+    }
+}

@@ -1,0 +1,1311 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Wide Open Filter",
+    "origin": "Vantor",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "Subtractive-I": [
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "__sps": {
+                        "AmpEnv": {
+                            "Release": {
+                                "value": 500.0
+                            },
+                            "Sustain": {
+                                "value": 1.0
+                            },
+                            "Decay": {
+                                "value": 100.0
+                            },
+                            "Attack": {
+                                "value": 10.0
+                            }
+                        },
+                        "OscC": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.2
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 30.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "OscB": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.3
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 21.090000000000003
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -11.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 21.1
+                            },
+                            "Wave": {
+                                "value": 4.0
+                            }
+                        },
+                        "pan": {                        },
+                        "FilterEnv": {
+                            "Release": {
+                                "value": 300.0
+                            },
+                            "Sustain": {
+                                "value": 0.5
+                            },
+                            "Decay": {
+                                "value": 200.0
+                            },
+                            "Attack": {
+                                "value": 100.0
+                            }
+                        },
+                        "OscA": {
+                            "PulseWidthLFOFreq": {
+                                "value": 0.5
+                            },
+                            "PitchBiasRandomAmt": {
+                                "value": 31.0
+                            },
+                            "PulseWidth": {
+                                "value": 0.5
+                            },
+                            "PitchBiasFine": {
+                                "value": 0.0
+                            },
+                            "Level": {
+                                "value": -6.0
+                            },
+                            "PitchBias": {
+                                "value": 0.0
+                            },
+                            "PulseWidthLFOAmt": {
+                                "value": 20.0
+                            },
+                            "Wave": {
+                                "value": 2.0
+                            }
+                        }
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    },
+                    "FilterAftertouchAmt": {
+                        "value": 0.5
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.5
+                    },
+                    "Portamento": {
+                        "value": 0.0
+                    },
+                    "FilterResonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMax": {
+                        "value": 1.0
+                    },
+                    "FilterTrackAmt": {
+                        "value": 1.0
+                    },
+                    "FilterVelocityAmt": {
+                        "value": 0.5
+                    },
+                    "StereoSpread": {
+                        "value": 0.41
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "VibratoAmtMin": {
+                        "value": 0.0
+                    },
+                    "FilterBias": {
+                        "value": 60.0
+                    },
+                    "RingMod": {
+                        "value": -96.0
+                    },
+                    "FilterLFORate": {
+                        "value": 5.0
+                    },
+                    "FilterLFOShape": {
+                        "value": 0.0
+                    },
+                    "VibratoRate": {
+                        "value": 5.0
+                    }
+                }
+            ],
+            "Vol": {            }
+        },
+        "AftertouchSlideDownTime": {
+            "value": 200.0
+        },
+        "AftertouchSlideUpTime": {
+            "value": 0.0
+        },
+        "__presetid": "Subtractive I",
+        "Transpose": {
+            "value": 2.0
+        },
+        "BendRangeHi": {
+            "value": 2.0
+        },
+        "BendRangeLow": {
+            "value": -2.0
+        },
+        "MIDI_Channel": {
+            "value": 0.0
+        },
+        "Volume": {
+            "value": -3.0
+        }
+    }
+}

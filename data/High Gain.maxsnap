@@ -1,0 +1,37 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "High Gain",
+    "origin": "Compressor",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "__sps": {
+            "Compensation~": {            },
+            "Compression~": {            },
+            "Volume&Clip~": {            },
+            "Lookahead~": {            }
+        },
+        "sustain": {
+            "value": 25.0
+        },
+        "attack": {
+            "value": 25.0
+        },
+        "__presetid": "74a09b97-f360-11ea-9b97-34363bd3ed8c",
+        "softclip": {
+            "value": 1.0
+        },
+        "comp": {
+            "value": 50.0
+        },
+        "volume": {
+            "value": 40.0
+        },
+        "lookahead": {
+            "value": 2.0
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Perc-A",
+    "origin": "Perc-A",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "Release": {
+            "value": 1000.0
+        },
+        "Sustain": {
+            "value": 100.0
+        },
+        "Decay": {
+            "value": 200.0
+        },
+        "__sps": {
+            "poly": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ]
+        },
+        "Attack": {
+            "value": 10.0
+        },
+        "Rate": {
+            "value": 1.0
+        },
+        "Spread": {
+            "value": 50.0
+        },
+        "__presetid": "Perc-A"
+    }
+}

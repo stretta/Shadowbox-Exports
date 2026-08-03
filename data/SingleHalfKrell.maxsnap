@@ -1,0 +1,56 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "SingleHalfKrell",
+    "origin": "SingleHalfKrell",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "ModulationIndex": {
+            "value": 1.0
+        },
+        "PitchBias": {
+            "value": 60.0
+        },
+        "__sps": {
+            "Quantizer[1]": {
+                "Scale": {
+                    "value": 2741.0
+                },
+                "ChromaticTranspose": {
+                    "value": 0.0
+                },
+                "Portamento": {
+                    "value": 0.0
+                },
+                "ScalarTranspose": {
+                    "value": 0.0
+                }
+            }
+        },
+        "Attack": {
+            "value": 500.0
+        },
+        "ModulationRatioRangeFine": {
+            "value": 1.0
+        },
+        "ModulationRatioRange": {
+            "value": 1.0
+        },
+        "PitchModAmtRandom": {
+            "value": 0.0
+        },
+        "MaxRandomTimeDomain": {
+            "value": 4000.0
+        },
+        "Release": {
+            "value": 500.0
+        },
+        "PitchModAmtAD": {
+            "value": 60.0
+        },
+        "__presetid": "SingleHalfKrell"
+    }
+}

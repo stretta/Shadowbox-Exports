@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Quantizer",
+    "origin": "Quantizer",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "Scale": {
+            "value": 2741.0
+        },
+        "ChromaticTranspose": {
+            "value": 0.0
+        },
+        "Portamento": {
+            "value": 0.0
+        },
+        "ScalarTranspose": {
+            "value": 0.0
+        },
+        "__presetid": "Quantizer"
+    }
+}

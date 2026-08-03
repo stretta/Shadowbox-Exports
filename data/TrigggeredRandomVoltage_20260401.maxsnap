@@ -1,0 +1,22 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "TrigggeredRandomVoltage",
+    "origin": "TriggeredRandomVoltage",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "scale_and_bias": {            }
+        },
+        "OutputRange": {
+            "value": 0.0
+        },
+        "OutputPolarity": {
+            "value": 0.0
+        },
+        "__presetid": "TriggeredRandomVoltage"
+    }
+}

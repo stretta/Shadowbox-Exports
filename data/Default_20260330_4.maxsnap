@@ -1,0 +1,28 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Default",
+    "origin": "Limiter",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "release": {
+            "value": 0.1
+        },
+        "__presetid": "Limiter",
+        "attack": {
+            "value": 0.01
+        },
+        "thresh": {
+            "value": 0.0
+        },
+        "gain": {
+            "value": 0.0
+        },
+        "lookahead": {
+            "value": 0.1
+        }
+    }
+}

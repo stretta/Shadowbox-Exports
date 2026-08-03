@@ -1,0 +1,99 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Damped",
+    "origin": "Shimmer",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "feedback": {
+            "value": 100.0
+        },
+        "chorus": {
+            "value": 100.0
+        },
+        "pitch": {
+            "value": 12.0
+        },
+        "delay": {
+            "value": 250.0
+        },
+        "size": {
+            "value": 80.0
+        },
+        "jitter": {
+            "value": 50.0
+        },
+        "pitchvol": {
+            "value": 0.0
+        },
+        "decay": {
+            "value": 80.0
+        },
+        "damp": {
+            "value": 80.0
+        },
+        "octvol": {
+            "value": 50.0
+        },
+        "__sps": {
+            "Delay~": {            },
+            "Feedback~": {
+                "__sps": {
+                    "Gate~": {                    }
+                }
+            },
+            "Chorus~": {            },
+            "p_obj-25": {
+                "__sps": {
+                    "p_obj-4": {                    },
+                    "p_obj-3": {                    }
+                }
+            },
+            "Reverb~": {
+                "__sps": {
+                    "CombR~": {                    },
+                    "MapParams": {                    },
+                    "CombL~": {                    },
+                    "Shuffle~": {                    },
+                    "Damp~": {                    },
+                    "RoomA~": {                    },
+                    "RoomB~": {                    },
+                    "Blur~": {                    }
+                }
+            },
+            "Volumes~": {            },
+            "Pitch~": {
+                "__sps": {
+                    "Shift~": {                    },
+                    "Shift~[1]": {                    }
+                }
+            },
+            "Mix~": {            },
+            "Octave~": {
+                "__sps": {
+                    "Shift~": {                    },
+                    "Shift~[1]": {                    }
+                }
+            }
+        },
+        "diff": {
+            "value": 50.0
+        },
+        "revvol": {
+            "value": 100.0
+        },
+        "window": {
+            "value": 250.0
+        },
+        "octdamp": {
+            "value": 50.0
+        },
+        "mix": {
+            "value": 50.0
+        },
+        "__presetid": "74a09b97-f360-11ea-9b97-34363bd3ed8c"
+    }
+}

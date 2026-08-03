@@ -1,0 +1,255 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "PolandSynth",
+    "origin": "SoftPiano",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "SoftPiano": [
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "__sps": {
+                        "datafiles": {                        }
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "FilterVel": {
+                        "value": 30.0
+                    },
+                    "LowPass": {
+                        "value": 24.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterKeyTracking": {
+                        "value": 1.0
+                    }
+                }
+            ]
+        },
+        "OutputVolume": {
+            "value": 0.0
+        },
+        "HPFFreq": {
+            "value": 0.0
+        },
+        "__presetid": "SoftPiano"
+    }
+}

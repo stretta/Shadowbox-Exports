@@ -1,0 +1,49 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Metal",
+    "origin": "Plate",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "__sps": {
+            "CombR~": {            },
+            "CombL~": {            },
+            "Allpass~": {            },
+            "Shuffle~": {            },
+            "Damp~": {            },
+            "RoomA~": {
+                "__sps": {
+                    "Delay~": {                    }
+                }
+            },
+            "RoomB~": {
+                "__sps": {
+                    "Delay~": {                    }
+                }
+            },
+            "Mix~": {            }
+        },
+        "diff": {
+            "value": 100
+        },
+        "size": {
+            "value": 0
+        },
+        "decay": {
+            "value": 100
+        },
+        "damp": {
+            "value": 0
+        },
+        "jitter": {
+            "value": 0
+        },
+        "mix": {
+            "value": 25
+        },
+        "__presetid": "74a09b97-f360-11ea-9b97-34363bd3ed8c"
+    }
+}

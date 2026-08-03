@@ -1,0 +1,49 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Small",
+    "origin": "Plate",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "__sps": {
+            "CombR~": {            },
+            "CombL~": {            },
+            "Allpass~": {            },
+            "Shuffle~": {            },
+            "Damp~": {            },
+            "RoomA~": {
+                "__sps": {
+                    "Delay~": {                    }
+                }
+            },
+            "RoomB~": {
+                "__sps": {
+                    "Delay~": {                    }
+                }
+            },
+            "Mix~": {            }
+        },
+        "diff": {
+            "value": 25
+        },
+        "size": {
+            "value": 25
+        },
+        "decay": {
+            "value": 25
+        },
+        "damp": {
+            "value": 50
+        },
+        "jitter": {
+            "value": 50
+        },
+        "mix": {
+            "value": 50
+        },
+        "__presetid": "74a09b97-f360-11ea-9b97-34363bd3ed8c"
+    }
+}

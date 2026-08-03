@@ -1,0 +1,56 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "ListSequencer",
+    "origin": "ListVelSequencer",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "8map": {
+            "value": 43.0
+        },
+        "7map": {
+            "value": 42.0
+        },
+        "6map": {
+            "value": 41.0
+        },
+        "5map": {
+            "value": 40.0
+        },
+        "4map": {
+            "value": 39.0
+        },
+        "2map": {
+            "value": 37.0
+        },
+        "__sps": {
+            "Clock": {
+                "ClockInterval": {
+                    "value": 240.0
+                },
+                "Swing": {
+                    "value": 0.0
+                },
+                "SwingAmt": {
+                    "value": 0.5
+                },
+                "Clock": {
+                    "value": 1.0
+                }
+            }
+        },
+        "1map": {
+            "value": 36.0
+        },
+        "TriggerSource": {
+            "value": 0.0
+        },
+        "3map": {
+            "value": 38.0
+        },
+        "__presetid": "ListVelSequencer"
+    }
+}

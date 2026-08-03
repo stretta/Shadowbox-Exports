@@ -1,0 +1,28 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "TestPattern",
+    "origin": "TestPattern",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "synth": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ]
+        },
+        "Interval": {
+            "value": 200.0
+        },
+        "__presetid": "TestPattern"
+    }
+}

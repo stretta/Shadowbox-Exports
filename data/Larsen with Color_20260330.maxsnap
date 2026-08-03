@@ -1,0 +1,58 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Larsen with Color",
+    "origin": "FilterDelay",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "__sps": {
+            "TapTempo": {            },
+            "FilterDelay~": {
+                "__sps": {
+                    "Filter~": {                    },
+                    "Filter~[1]": {                    },
+                    "Filter~[2]": {                    },
+                    "Filter~[3]": {                    }
+                }
+            },
+            "Volume~": {            },
+            "DelayCalc": {            },
+            "Input~": {            },
+            "Mix~": {            }
+        },
+        "scale": {
+            "value": 6.0
+        },
+        "regen": {
+            "value": 100.0
+        },
+        "mix": {
+            "value": 50.0
+        },
+        "filter": {
+            "value": 0.0
+        },
+        "input": {
+            "value": 1.0
+        },
+        "color": {
+            "value": 50.0
+        },
+        "fb": {
+            "value": 1.0
+        },
+        "spread": {
+            "value": -100.0
+        },
+        "volume": {
+            "value": 0.0
+        },
+        "time": {
+            "value": 43.0
+        },
+        "__presetid": "74a09b97-f360-11ea-9b97-34363bd3ed8c"
+    }
+}

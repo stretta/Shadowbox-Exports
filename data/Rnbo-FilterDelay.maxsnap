@@ -1,0 +1,85 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Rnbo-FilterDelay",
+    "origin": "Rnbo-FilterDelay",
+    "type": "patcher",
+    "subtype": "Undefined",
+    "embed": 1,
+    "snapshot": {
+        "valuedictionary": {
+            "parameter_values": {
+                "Browse": 7.0,
+                "Input": 0.0,
+                "MIDI": 0.0,
+                "TapMult": 0.0,
+                "blob": {
+                    "rnbo~": [
+                        {
+                            "filetype": "C74Snapshot",
+                            "version": 2,
+                            "minorversion": 0,
+                            "name": "FilterDelay",
+                            "origin": "FilterDelay",
+                            "type": "rnbo",
+                            "subtype": "",
+                            "embed": 1,
+                            "snapshot": {
+                                "__sps": {
+                                    "TapTempo": {                                    },
+                                    "FilterDelay~": {
+                                        "__sps": {
+                                            "Filter~": {                                            },
+                                            "Filter~[1]": {                                            },
+                                            "Filter~[2]": {                                            },
+                                            "Filter~[3]": {                                            }
+                                        }
+                                    },
+                                    "Volume~": {                                    },
+                                    "DelayCalc": {                                    },
+                                    "Input~": {                                    },
+                                    "Mix~": {                                    }
+                                },
+                                "fb": {
+                                    "value": 0.0
+                                },
+                                "Sync": {
+                                    "value": 0.0
+                                },
+                                "scale": {
+                                    "value": 0.0
+                                },
+                                "regen": {
+                                    "value": 0.0
+                                },
+                                "mix": {
+                                    "value": 0.0
+                                },
+                                "filter": {
+                                    "value": 0.0
+                                },
+                                "input": {
+                                    "value": 0.0
+                                },
+                                "color": {
+                                    "value": 0.0
+                                },
+                                "spread": {
+                                    "value": 0.0
+                                },
+                                "volume": {
+                                    "value": 0.0
+                                },
+                                "time": {
+                                    "value": 50.0
+                                },
+                                "__presetid": "FilterDelay"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

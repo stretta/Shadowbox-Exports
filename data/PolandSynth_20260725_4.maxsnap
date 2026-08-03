@@ -1,0 +1,615 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "PolandSynth",
+    "origin": "Element",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "Element": [
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                },
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                },
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                },
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                },
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                },
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                },
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                },
+                {
+                    "LFORate": {
+                        "value": 0.0
+                    },
+                    "LFOShape": {
+                        "value": 0.0
+                    },
+                    "PulseLevel": {
+                        "value": 0.0
+                    },
+                    "NoiseLevel": {
+                        "value": 0.0
+                    },
+                    "SubLevel": {
+                        "value": 0.0
+                    },
+                    "FilterEnvAmt": {
+                        "value": 0.0
+                    },
+                    "FilterEnvDecay": {
+                        "value": 0.1
+                    },
+                    "FilterEnvAttack": {
+                        "value": 0.1
+                    },
+                    "VCAEnvRelease": {
+                        "value": 0.1
+                    },
+                    "PitchLFOAmt": {
+                        "value": 0.0
+                    },
+                    "SawLevel": {
+                        "value": 0.0
+                    },
+                    "Resonance": {
+                        "value": 0.0
+                    },
+                    "PWLFOAmt": {
+                        "value": 0.0
+                    },
+                    "VCAEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterEnvSustain": {
+                        "value": 0.0
+                    },
+                    "FilterOffset": {
+                        "value": 0.0
+                    },
+                    "Drift": {
+                        "value": 0.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    },
+                    "FilterMode": {
+                        "value": 0.0
+                    },
+                    "PW": {
+                        "value": 0.0
+                    },
+                    "FilterEnvRelease": {
+                        "value": 0.1
+                    },
+                    "VCAEnvDecay": {
+                        "value": 0.1
+                    },
+                    "VCAEnvAttack": {
+                        "value": 0.1
+                    },
+                    "FilterLFOAmt": {
+                        "value": 0.0
+                    }
+                }
+            ]
+        },
+        "OutputVolume": {
+            "value": 0.0
+        },
+        "HPFFreq": {
+            "value": 0.0
+        },
+        "__presetid": "Element"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "TestEditors",
+    "origin": "TestEditors",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "Scale": {
+            "value": 2741.0
+        },
+        "IntEdit": {
+            "value": 0.0
+        },
+        "FloatEdit": {
+            "value": 0.5
+        },
+        "FloatEditFine": {
+            "value": 0.5
+        },
+        "ScalarTranspose": {
+            "value": 0.0
+        },
+        "EnumEdit": {
+            "value": 0.0
+        },
+        "Steps": {
+            "value": 0.0
+        },
+        "__presetid": "TestEditors"
+    }
+}

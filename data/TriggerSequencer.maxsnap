@@ -1,0 +1,44 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "TriggerSequencer",
+    "origin": "TriggerSequencer",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "TriggerDuration": {
+            "value": 10.0
+        },
+        "__presetid": "TriggerSequencer",
+        "Steps": {
+            "value": 65535.0
+        },
+        "Direction": {
+            "value": 0.0
+        },
+        "__sps": {
+            "Clock": {
+                "ClockInterval": {
+                    "value": 240.0
+                },
+                "Swing": {
+                    "value": 0.0
+                },
+                "SwingAmt": {
+                    "value": 0.5
+                },
+                "Clock": {
+                    "value": 1.0
+                }
+            }
+        },
+        "MaxCnt": {
+            "value": 15.0
+        },
+        "TriggerSource": {
+            "value": 0.0
+        }
+    }
+}

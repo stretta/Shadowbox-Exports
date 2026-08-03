@@ -1,0 +1,16 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Source",
+    "origin": "ShadowScoreClient",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "Clock": {
+            "value": 1.0
+        },
+        "__presetid": "ShadowScoreClient"
+    }
+}

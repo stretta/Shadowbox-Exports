@@ -1,0 +1,76 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Amp Jitter",
+    "origin": "Freeze",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "direct": {
+            "value": 1.0
+        },
+        "pitchjit": {
+            "value": 25.0
+        },
+        "highcut": {
+            "value": 0.0
+        },
+        "panjit": {
+            "value": 25.0
+        },
+        "lowcut": {
+            "value": 0.0
+        },
+        "__presetid": "74a09b97-f360-11ea-9b97-34363bd3ed8c",
+        "__sps": {
+            "Direct~": {            },
+            "Freezer-Voice~[1]": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ],
+            "Freeze": {            },
+            "EQ&Volume~": {            },
+            "Freezer-Voice~": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ],
+            "Transp~": {            },
+            "Attack~": {            }
+        },
+        "transp": {
+            "value": 0.0
+        },
+        "ampjit": {
+            "value": 100.0
+        },
+        "freeze": {
+            "value": 1.0
+        },
+        "autodel": {
+            "value": 30.0
+        },
+        "fade": {
+            "value": 25.0
+        },
+        "volume": {
+            "value": -25.0
+        },
+        "auto": {
+            "value": 10.0
+        }
+    }
+}

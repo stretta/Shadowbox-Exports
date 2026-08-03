@@ -1,0 +1,135 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Poland",
+    "origin": "Poland",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "FilterBias": {
+            "value": 0.0
+        },
+        "FilterKeyTracking": {
+            "value": 0.0
+        },
+        "VCARelease": {
+            "value": 1000.0
+        },
+        "VCADecay": {
+            "value": 200.0
+        },
+        "FilterRelease": {
+            "value": 1000.0
+        },
+        "FilterEnvAmt": {
+            "value": 0.0
+        },
+        "VCAAttack": {
+            "value": 10.0
+        },
+        "FilterSustain": {
+            "value": 1.0
+        },
+        "FilterAttack": {
+            "value": 10.0
+        },
+        "PitchBiasCoarseA": {
+            "value": 0.0
+        },
+        "FilterVelocity": {
+            "value": 0.0
+        },
+        "WavetableA": {
+            "value": 0.0
+        },
+        "WaveEnvModDistanceA": {
+            "value": 60.0
+        },
+        "PitchBiasFineA": {
+            "value": 0.0
+        },
+        "VolA": {
+            "value": 0.0
+        },
+        "VibAmt": {
+            "value": 0.0
+        },
+        "FilterDecay": {
+            "value": 200.0
+        },
+        "WaveModVelB": {
+            "value": 0.0
+        },
+        "FilterResonance": {
+            "value": 0.0
+        },
+        "VCAVelocity": {
+            "value": 0.0
+        },
+        "WaveEnvModDistanceB": {
+            "value": 60.0
+        },
+        "VibRate": {
+            "value": 0.0
+        },
+        "WavetableB": {
+            "value": 0.0
+        },
+        "WaveBiasA": {
+            "value": 0.0
+        },
+        "Spread": {
+            "value": 50.0
+        },
+        "WaveEnvModTimeB": {
+            "value": 4000.0
+        },
+        "WaveModVelA": {
+            "value": 0.0
+        },
+        "__presetid": "Poland",
+        "VolB": {
+            "value": 0.0
+        },
+        "WaveBiasB": {
+            "value": 0.0
+        },
+        "__sps": {
+            "poly": [
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                },
+                {                }
+            ]
+        },
+        "VCASustain": {
+            "value": 1.0
+        },
+        "PitchBiasFineB": {
+            "value": 0.0
+        },
+        "WaveEnvModTimeA": {
+            "value": 4000.0
+        },
+        "Portamento": {
+            "value": 0.0
+        },
+        "PitchBiasCoarseB": {
+            "value": 0.0
+        }
+    }
+}

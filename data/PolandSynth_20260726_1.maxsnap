@@ -1,0 +1,279 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "PolandSynth",
+    "origin": "Organ",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "Tonewheel": [
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                },
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                },
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                },
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                },
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                },
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                },
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                },
+                {
+                    "Larigot": {
+                        "value": 0.0
+                    },
+                    "Sifflute": {
+                        "value": 0.0
+                    },
+                    "Block-flute": {
+                        "value": 0.0
+                    },
+                    "Nazard": {
+                        "value": 0.0
+                    },
+                    "Octave": {
+                        "value": 0.0
+                    },
+                    "Tierce": {
+                        "value": 0.0
+                    },
+                    "Quint": {
+                        "value": 0.0
+                    },
+                    "Neutral": {
+                        "value": 0.0
+                    },
+                    "Keyclick": {
+                        "value": 0.0
+                    },
+                    "Bass": {
+                        "value": -3.0
+                    }
+                }
+            ]
+        },
+        "OutputVolume": {
+            "value": 0.0
+        },
+        "HPFFreq": {
+            "value": 0.0
+        },
+        "__presetid": "Organ"
+    }
+}

@@ -1,0 +1,738 @@
+{
+	"filetype" : "C74Snapshot",
+	"version" : 2,
+	"minorversion" : 0,
+	"name" : "Layer 2",
+	"origin" : "TwoOperators",
+	"type" : "rnbo",
+	"subtype" : "",
+	"embed" : 0,
+	"snapshot" : 	{
+		"__sps" : 		{
+			"TwoOperators" : [ 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+, 				{
+					"__sps" : 					{
+						"ModulatorEnv" : 						{
+							"Release" : 							{
+								"value" : 703.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 466.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan[1]" : 						{
+
+						}
+,
+						"CarrierEnv" : 						{
+							"Release" : 							{
+								"value" : 1211.0
+							}
+,
+							"Sustain" : 							{
+								"value" : 0.0
+							}
+,
+							"Decay" : 							{
+								"value" : 200.0
+							}
+,
+							"Attack" : 							{
+								"value" : 5.0
+							}
+
+						}
+,
+						"pan" : 						{
+
+						}
+
+					}
+,
+					"ModulatorIndex" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORate" : 					{
+						"value" : 2.0
+					}
+,
+					"StereoSpread" : 					{
+						"value" : 1.0
+					}
+,
+					"ModulatorOffsetHz" : 					{
+						"value" : 0.075
+					}
+,
+					"ModulatorIndexLFODepth" : 					{
+						"value" : 0.022
+					}
+,
+					"ModulatorRatio" : 					{
+						"value" : 10.0
+					}
+,
+					"ModulatorIndexLFORateRandomAmt" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierRatio" : 					{
+						"value" : 1.0
+					}
+,
+					"CarrierOffsetHz" : 					{
+						"value" : 0.0
+					}
+
+				}
+ ],
+			"Vol" : 			{
+
+			}
+
+		}
+,
+		"__presetid" : "TwoOperators",
+		"Transpose" : 		{
+			"value" : 2.0
+		}
+,
+		"BendRangeHi" : 		{
+			"value" : 2.0
+		}
+,
+		"BendRangeLow" : 		{
+			"value" : -2.0
+		}
+,
+		"MIDI_Channel" : 		{
+			"value" : 0.0
+		}
+,
+		"Volume" : 		{
+			"value" : -3.0
+		}
+
+	}
+
+}

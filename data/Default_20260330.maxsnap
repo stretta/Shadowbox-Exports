@@ -1,0 +1,93 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "Default",
+    "origin": "Shimmer",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 1,
+    "snapshot": {
+        "feedback": {
+            "value": 0.0
+        },
+        "chorus": {
+            "value": 0.0
+        },
+        "pitch": {
+            "value": 0.0
+        },
+        "delay": {
+            "value": 0.0
+        },
+        "size": {
+            "value": 0.0
+        },
+        "jitter": {
+            "value": 0.0
+        },
+        "pitchvol": {
+            "value": 0.0
+        },
+        "decay": {
+            "value": 0.0
+        },
+        "damp": {
+            "value": 0.0
+        },
+        "octvol": {
+            "value": 0.0
+        },
+        "__sps": {
+            "Pitch~": {
+                "__sps": {
+                    "Shift~": {                    },
+                    "Shift~[1]": {                    }
+                }
+            },
+            "Delay~": {            },
+            "Feedback~": {
+                "__sps": {
+                    "Gate~": {                    }
+                }
+            },
+            "Reverb~": {
+                "__sps": {
+                    "CombR~": {                    },
+                    "MapParams": {                    },
+                    "CombL~": {                    },
+                    "Shuffle~": {                    },
+                    "Damp~": {                    },
+                    "RoomA~": {                    },
+                    "RoomB~": {                    },
+                    "Blur~": {                    }
+                }
+            },
+            "Chorus~": {            },
+            "Volumes~": {            },
+            "Mix~": {            },
+            "Octave~": {
+                "__sps": {
+                    "Shift~": {                    },
+                    "Shift~[1]": {                    }
+                }
+            }
+        },
+        "diff": {
+            "value": 0.0
+        },
+        "revvol": {
+            "value": 0.0
+        },
+        "window": {
+            "value": 25.0
+        },
+        "octdamp": {
+            "value": 0.0
+        },
+        "mix": {
+            "value": 0.0
+        },
+        "__presetid": "Shimmer"
+    }
+}

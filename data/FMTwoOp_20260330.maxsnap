@@ -1,0 +1,25 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "FMTwoOp",
+    "origin": "Wavetable",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "WaveSelectCVAmt": {
+            "value": 0.0
+        },
+        "WaveSelect": {
+            "value": 0.0
+        },
+        "TableSelect": {
+            "value": 0.0
+        },
+        "OctaveBias": {
+            "value": 2.0
+        },
+        "__presetid": "Wavetable"
+    }
+}
