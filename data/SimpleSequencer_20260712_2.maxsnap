@@ -25,6 +25,9 @@
                 }
             }
         },
+        "OutputMode": {
+            "value": 2.0
+        },
         "16StageValue": {
             "value": 60.0
         },
@@ -118,6 +121,9 @@
         "08StageStep": {
             "value": 1.0
         },
+        "ControlChangeAssignment": {
+            "value": 1.0
+        },
         "02StageStep": {
             "value": 1.0
         },
@@ -137,11 +143,11 @@
             "value": 1.0
         },
         "01StageValue": {
-            "value": 73.0
+            "value": 61.0
         },
         "__presetid": "AnalogSequencer",
         "02StageValue": {
-            "value": 50.0
+            "value": 60.0
         },
         "03StageValue": {
             "value": 60.0
