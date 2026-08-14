@@ -15,7 +15,7 @@
             "value": 60.0
         },
         "__sps": {
-            "Quantizer[1]": {
+            "Quantizer": {
                 "Scale": {
                     "value": 2741.0
                 },

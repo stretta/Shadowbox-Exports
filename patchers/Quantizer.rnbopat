@@ -4,12 +4,12 @@
         "appversion": {
             "major": 9,
             "minor": 1,
-            "revision": 4,
+            "revision": 5,
             "architecture": "x64",
             "modernui": 1
         },
         "classnamespace": "rnbo",
-        "rect": [ 134.0, 86.0, 512.0, 623.0 ],
+        "rect": [ 134.0, 86.0, 1043.0, 704.0 ],
         "default_fontname": "Lato",
         "integercoordinates": 1,
         "title": "Quantizer",
@@ -732,11 +732,11 @@
                     "patching_rect": [ 505.0, 1096.0, 100.0, 23.0 ],
                     "rnbo_classname": "peek",
                     "rnbo_extra_attributes": {
-                        "boundmode": "ignore",
-                        "channels": 1.0,
+                        "channelmode": "ignore",
                         "indexmode": "samples",
                         "interp": "none",
-                        "channelmode": "ignore"
+                        "channels": 1.0,
+                        "boundmode": "ignore"
                     },
                     "rnbo_serial": 1,
                     "rnbo_uniqueid": "peek_obj-23",
@@ -1041,46 +1041,46 @@
             {
                 "box": {
                     "id": "obj-12",
-                    "linecount": 2,
                     "maxclass": "newobj",
                     "numinlets": 2,
                     "numoutlets": 2,
                     "outlettype": [ "", "" ],
-                    "patching_rect": [ 205.0, 327.0, 333.0, 37.0 ],
+                    "patching_rect": [ 205.0, 327.0, 384.0, 23.0 ],
                     "rnbo_classname": "param",
                     "rnbo_extra_attributes": {
-                        "displayorder": "-",
-                        "tonormalized": "",
-                        "fromnormalized": "",
-                        "ctlin": -1.0,
+                        "meta": "",
                         "enum": "",
-                        "steps": 0.0,
-                        "sendinit": 1,
+                        "ctlin": -1.0,
                         "unit": "",
+                        "tonormalized": "",
+                        "displayorder": "-",
+                        "order": "0",
+                        "fromnormalized": "",
                         "displayname": "",
-                        "preset": 1,
                         "exponent": 1.0,
-                        "order": "0"
+                        "sendinit": 1,
+                        "preset": 1
                     },
-                    "rnbo_serial": 1,
+                    "rnbo_serial": 6,
                     "rnbo_uniqueid": "ScalarTranspose",
                     "rnboinfo": {
                         "needsInstanceInfo": 1,
                         "argnames": {
                             "value": {
-                                "attrOrProp": 1,
-                                "digest": "Parameter value",
+                                "attrOrProp": 2,
+                                "digest": "Set initial value",
                                 "defaultarg": 2,
                                 "isalias": 0,
                                 "aliases": [],
                                 "settable": 1,
                                 "attachable": 0,
-                                "isparam": 1,
+                                "isparam": 0,
                                 "deprecated": 0,
                                 "touched": 0,
-                                "inlet": 1,
                                 "type": "number",
-                                "defaultValue": "0"
+                                "defaultValue": "0",
+                                "label": "Initial Value",
+                                "displayorder": 3
                             },
                             "normalizedvalue": {
                                 "attrOrProp": 1,
@@ -1452,7 +1452,7 @@
                         "versionId": -1093178486,
                         "changesPatcherIO": 0
                     },
-                    "text": "param @name ScalarTranspose @min -48 @max 48 @value 0 @meta {display_precision: '0'\\, edit_step: '1'\\, edit_as: 'int'}",
+                    "text": "param @name ScalarTranspose @min -48 @max 48 @value 0 @steps 97",
                     "varname": "ScalarTranspose"
                 }
             },
@@ -1508,19 +1508,19 @@
                     "patching_rect": [ 232.0, 815.0, 720.0, 23.0 ],
                     "rnbo_classname": "param",
                     "rnbo_extra_attributes": {
-                        "displayorder": "-",
-                        "tonormalized": "",
-                        "fromnormalized": "",
-                        "ctlin": -1.0,
                         "enum": "",
+                        "ctlin": -1.0,
                         "steps": 0.0,
-                        "sendinit": 1,
+                        "tonormalized": "",
+                        "displayorder": "-",
+                        "order": "0",
+                        "fromnormalized": "",
                         "displayname": "",
-                        "preset": 1,
                         "exponent": 1.0,
-                        "order": "0"
+                        "sendinit": 1,
+                        "preset": 1
                     },
-                    "rnbo_serial": 5,
+                    "rnbo_serial": 2,
                     "rnbo_uniqueid": "Portamento",
                     "rnboinfo": {
                         "needsInstanceInfo": 1,
@@ -1928,10 +1928,10 @@
                     "rnbo_classname": "number",
                     "rnbo_extra_attributes": {
                         "maximum": "<none>",
-                        "minimum": "<none>",
                         "initialFormat": "integer",
-                        "preset": 0,
-                        "order": ""
+                        "minimum": "<none>",
+                        "order": "",
+                        "preset": 0
                     },
                     "rnbo_serial": 1,
                     "rnbo_uniqueid": "number_obj-43"
@@ -2068,18 +2068,18 @@
                     "patching_rect": [ 640.0, 346.0, 513.0, 23.0 ],
                     "rnbo_classname": "param",
                     "rnbo_extra_attributes": {
-                        "displayorder": "-",
-                        "tonormalized": "",
-                        "fromnormalized": "",
-                        "ctlin": -1.0,
                         "enum": "",
-                        "steps": 0.0,
-                        "sendinit": 1,
+                        "ctlin": -1.0,
                         "unit": "",
+                        "steps": 0.0,
+                        "tonormalized": "",
+                        "displayorder": "-",
+                        "order": "0",
+                        "fromnormalized": "",
                         "displayname": "",
-                        "preset": 1,
                         "exponent": 1.0,
-                        "order": "0"
+                        "sendinit": 1,
+                        "preset": 1
                     },
                     "rnbo_serial": 3,
                     "rnbo_uniqueid": "Scale",
@@ -2482,23 +2482,23 @@
                     "numinlets": 2,
                     "numoutlets": 2,
                     "outlettype": [ "", "" ],
-                    "patching_rect": [ 250.0, 692.0, 643.0, 23.0 ],
+                    "patching_rect": [ 250.0, 692.0, 407.0, 23.0 ],
                     "rnbo_classname": "param",
                     "rnbo_extra_attributes": {
-                        "displayorder": "-",
-                        "tonormalized": "",
-                        "fromnormalized": "",
-                        "ctlin": -1.0,
+                        "meta": "",
                         "enum": "",
-                        "steps": 0.0,
-                        "sendinit": 1,
+                        "ctlin": -1.0,
                         "unit": "",
+                        "tonormalized": "",
+                        "displayorder": "-",
+                        "order": "0",
+                        "fromnormalized": "",
                         "displayname": "",
-                        "preset": 1,
                         "exponent": 1.0,
-                        "order": "0"
+                        "sendinit": 1,
+                        "preset": 1
                     },
-                    "rnbo_serial": 6,
+                    "rnbo_serial": 5,
                     "rnbo_uniqueid": "ChromaticTranspose",
                     "rnboinfo": {
                         "needsInstanceInfo": 1,
@@ -2889,7 +2889,7 @@
                         "versionId": -1093178486,
                         "changesPatcherIO": 0
                     },
-                    "text": "param @name ChromaticTranspose @min -48 @max 48 @value 0 @meta {display_precision: '0'\\, edit_step: '1'\\, edit_as: 'int'}",
+                    "text": "param @name ChromaticTranspose @min -48 @max 48 @value 0 @steps 97",
                     "varname": "ChromaticTranspose"
                 }
             },
@@ -2934,10 +2934,10 @@
                     "rnbo_classname": "number",
                     "rnbo_extra_attributes": {
                         "maximum": "<none>",
-                        "minimum": "<none>",
                         "initialFormat": "integer",
-                        "preset": 0,
-                        "order": ""
+                        "minimum": "<none>",
+                        "order": "",
+                        "preset": 0
                     },
                     "rnbo_serial": 2,
                     "rnbo_uniqueid": "number_obj-17"
@@ -3074,11 +3074,11 @@
                     "patching_rect": [ 149.0, 498.0, 107.0, 23.0 ],
                     "rnbo_classname": "peek~",
                     "rnbo_extra_attributes": {
-                        "boundmode": "ignore",
-                        "channels": 1.0,
+                        "channelmode": "ignore",
                         "indexmode": "samples",
                         "interp": "none",
-                        "channelmode": "ignore"
+                        "channels": 1.0,
+                        "boundmode": "ignore"
                     },
                     "rnbo_serial": 1,
                     "rnbo_uniqueid": "peek~_obj-86",
@@ -3283,17 +3283,17 @@
                     "numinlets": 1,
                     "numoutlets": 3,
                     "outlettype": [ "", "", "" ],
-                    "patching_rect": [ 314.0, 409.0, 193.0, 23.0 ],
+                    "patching_rect": [ 314.0, 409.0, 259.0, 23.0 ],
                     "rnbo_classname": "buffer~",
                     "rnbo_extra_attributes": {
                         "meta": "",
-                        "type": "",
-                        "samplerate": 0.0,
-                        "file": "",
                         "fill": "",
-                        "preset": 0
+                        "file": "",
+                        "samplerate": 0.0,
+                        "preset": 0,
+                        "type": ""
                     },
-                    "rnbo_serial": 1,
+                    "rnbo_serial": 2,
                     "rnbo_uniqueid": "buffer~_obj-3",
                     "rnboinfo": {
                         "needsInstanceInfo": 1,
@@ -3590,7 +3590,7 @@
                         "versionId": 405570163,
                         "changesPatcherIO": 0
                     },
-                    "text": "buffer~ pitchclasses @samples 240"
+                    "text": "buffer~ pitchclasses @samples 240 @external 0"
                 }
             },
             {
@@ -3606,10 +3606,10 @@
                     "patching_rect": [ 640.0, 454.0, 340.0, 200.0 ],
                     "rnbo_classname": "codebox",
                     "rnbo_extra_attributes": {
-                        "hot": 0,
-                        "safemath": 1,
                         "nocache": 0,
-                        "code": "@state pitchclasses = new buffer(\"pitchclasses\");\n\n// in1 = TTID\nvar ttid = int(in1);\n\n// ----------------------------------------\n// working vars\n// ----------------------------------------\nvar last = 0;\nvar wrapped = 0;\nvar i = 0;\nvar oct = 0;\nvar base = 0;\nvar v = 0;\n\n// ----------------------------------------\n// pitch-class map vars\n// ----------------------------------------\nvar pc0 = 0;   var adj0 = 0;\nvar pc1 = 0;   var adj1 = 0;\nvar pc2 = 0;   var adj2 = 0;\nvar pc3 = 0;   var adj3 = 0;\nvar pc4 = 0;   var adj4 = 0;\nvar pc5 = 0;   var adj5 = 0;\nvar pc6 = 0;   var adj6 = 0;\nvar pc7 = 0;   var adj7 = 0;\nvar pc8 = 0;   var adj8 = 0;\nvar pc9 = 0;   var adj9 = 0;\nvar pc10 = 0;  var adj10 = 0;\nvar pc11 = 0;  var adj11 = 0;\n\n// ----------------------------------------\n// find highest enabled pitch class\n// bit 0 = C, bit 11 = B\n// ----------------------------------------\nfor (i = 11; i >= 0; i -= 1) {\n    if ((ttid >> i) & 1) {\n        last = i;\n        break;\n    }\n}\n\n// if C is absent, entries before first enabled pc\n// are inherited from previous octave\nwrapped = ((ttid >> 0) & 1) ? 0 : 1;\n\n// ----------------------------------------\n// build 12-note inherited pitch map\n// pcN  = inherited pitch class\n// adjN = octave adjustment (0 or -12)\n// ----------------------------------------\nif ((ttid >> 0) & 1) {\n    last = 0;\n    wrapped = 0;\n}\npc0 = last;\nadj0 = wrapped ? -12 : 0;\n\nif ((ttid >> 1) & 1) {\n    last = 1;\n    wrapped = 0;\n}\npc1 = last;\nadj1 = wrapped ? -12 : 0;\n\nif ((ttid >> 2) & 1) {\n    last = 2;\n    wrapped = 0;\n}\npc2 = last;\nadj2 = wrapped ? -12 : 0;\n\nif ((ttid >> 3) & 1) {\n    last = 3;\n    wrapped = 0;\n}\npc3 = last;\nadj3 = wrapped ? -12 : 0;\n\nif ((ttid >> 4) & 1) {\n    last = 4;\n    wrapped = 0;\n}\npc4 = last;\nadj4 = wrapped ? -12 : 0;\n\nif ((ttid >> 5) & 1) {\n    last = 5;\n    wrapped = 0;\n}\npc5 = last;\nadj5 = wrapped ? -12 : 0;\n\nif ((ttid >> 6) & 1) {\n    last = 6;\n    wrapped = 0;\n}\npc6 = last;\nadj6 = wrapped ? -12 : 0;\n\nif ((ttid >> 7) & 1) {\n    last = 7;\n    wrapped = 0;\n}\npc7 = last;\nadj7 = wrapped ? -12 : 0;\n\nif ((ttid >> 8) & 1) {\n    last = 8;\n    wrapped = 0;\n}\npc8 = last;\nadj8 = wrapped ? -12 : 0;\n\nif ((ttid >> 9) & 1) {\n    last = 9;\n    wrapped = 0;\n}\npc9 = last;\nadj9 = wrapped ? -12 : 0;\n\nif ((ttid >> 10) & 1) {\n    last = 10;\n    wrapped = 0;\n}\npc10 = last;\nadj10 = wrapped ? -12 : 0;\n\nif ((ttid >> 11) & 1) {\n    last = 11;\n    wrapped = 0;\n}\npc11 = last;\nadj11 = wrapped ? -12 : 0;\n\n// ----------------------------------------\n// write 240-sample bipolar table\n// sample 0   = -120 semitones\n// sample 120 = 0 semitones\n// sample 239 = +119 semitones\n// ----------------------------------------\nfor (oct = -10; oct < 10; oct += 1) {\n    base = oct * 12 + 120;\n\n    v = (oct * 12) + adj0 + pc0;    poke(pitchclasses, v / 120, base + 0);\n    v = (oct * 12) + adj1 + pc1;    poke(pitchclasses, v / 120, base + 1);\n    v = (oct * 12) + adj2 + pc2;    poke(pitchclasses, v / 120, base + 2);\n    v = (oct * 12) + adj3 + pc3;    poke(pitchclasses, v / 120, base + 3);\n    v = (oct * 12) + adj4 + pc4;    poke(pitchclasses, v / 120, base + 4);\n    v = (oct * 12) + adj5 + pc5;    poke(pitchclasses, v / 120, base + 5);\n    v = (oct * 12) + adj6 + pc6;    poke(pitchclasses, v / 120, base + 6);\n    v = (oct * 12) + adj7 + pc7;    poke(pitchclasses, v / 120, base + 7);\n    v = (oct * 12) + adj8 + pc8;    poke(pitchclasses, v / 120, base + 8);\n    v = (oct * 12) + adj9 + pc9;    poke(pitchclasses, v / 120, base + 9);\n    v = (oct * 12) + adj10 + pc10;  poke(pitchclasses, v / 120, base + 10);\n    v = (oct * 12) + adj11 + pc11;  poke(pitchclasses, v / 120, base + 11);\n}"
+                        "hot": 0,
+                        "code": "@state pitchclasses = new buffer(\"pitchclasses\");\n\n// in1 = TTID\nvar ttid = int(in1);\n\n// ----------------------------------------\n// working vars\n// ----------------------------------------\nvar last = 0;\nvar wrapped = 0;\nvar i = 0;\nvar oct = 0;\nvar base = 0;\nvar v = 0;\n\n// ----------------------------------------\n// pitch-class map vars\n// ----------------------------------------\nvar pc0 = 0;   var adj0 = 0;\nvar pc1 = 0;   var adj1 = 0;\nvar pc2 = 0;   var adj2 = 0;\nvar pc3 = 0;   var adj3 = 0;\nvar pc4 = 0;   var adj4 = 0;\nvar pc5 = 0;   var adj5 = 0;\nvar pc6 = 0;   var adj6 = 0;\nvar pc7 = 0;   var adj7 = 0;\nvar pc8 = 0;   var adj8 = 0;\nvar pc9 = 0;   var adj9 = 0;\nvar pc10 = 0;  var adj10 = 0;\nvar pc11 = 0;  var adj11 = 0;\n\n// ----------------------------------------\n// find highest enabled pitch class\n// bit 0 = C, bit 11 = B\n// ----------------------------------------\nfor (i = 11; i >= 0; i -= 1) {\n    if ((ttid >> i) & 1) {\n        last = i;\n        break;\n    }\n}\n\n// if C is absent, entries before first enabled pc\n// are inherited from previous octave\nwrapped = ((ttid >> 0) & 1) ? 0 : 1;\n\n// ----------------------------------------\n// build 12-note inherited pitch map\n// pcN  = inherited pitch class\n// adjN = octave adjustment (0 or -12)\n// ----------------------------------------\nif ((ttid >> 0) & 1) {\n    last = 0;\n    wrapped = 0;\n}\npc0 = last;\nadj0 = wrapped ? -12 : 0;\n\nif ((ttid >> 1) & 1) {\n    last = 1;\n    wrapped = 0;\n}\npc1 = last;\nadj1 = wrapped ? -12 : 0;\n\nif ((ttid >> 2) & 1) {\n    last = 2;\n    wrapped = 0;\n}\npc2 = last;\nadj2 = wrapped ? -12 : 0;\n\nif ((ttid >> 3) & 1) {\n    last = 3;\n    wrapped = 0;\n}\npc3 = last;\nadj3 = wrapped ? -12 : 0;\n\nif ((ttid >> 4) & 1) {\n    last = 4;\n    wrapped = 0;\n}\npc4 = last;\nadj4 = wrapped ? -12 : 0;\n\nif ((ttid >> 5) & 1) {\n    last = 5;\n    wrapped = 0;\n}\npc5 = last;\nadj5 = wrapped ? -12 : 0;\n\nif ((ttid >> 6) & 1) {\n    last = 6;\n    wrapped = 0;\n}\npc6 = last;\nadj6 = wrapped ? -12 : 0;\n\nif ((ttid >> 7) & 1) {\n    last = 7;\n    wrapped = 0;\n}\npc7 = last;\nadj7 = wrapped ? -12 : 0;\n\nif ((ttid >> 8) & 1) {\n    last = 8;\n    wrapped = 0;\n}\npc8 = last;\nadj8 = wrapped ? -12 : 0;\n\nif ((ttid >> 9) & 1) {\n    last = 9;\n    wrapped = 0;\n}\npc9 = last;\nadj9 = wrapped ? -12 : 0;\n\nif ((ttid >> 10) & 1) {\n    last = 10;\n    wrapped = 0;\n}\npc10 = last;\nadj10 = wrapped ? -12 : 0;\n\nif ((ttid >> 11) & 1) {\n    last = 11;\n    wrapped = 0;\n}\npc11 = last;\nadj11 = wrapped ? -12 : 0;\n\n// ----------------------------------------\n// write 240-sample bipolar table\n// sample 0   = -120 semitones\n// sample 120 = 0 semitones\n// sample 239 = +119 semitones\n// ----------------------------------------\nfor (oct = -10; oct < 10; oct += 1) {\n    base = oct * 12 + 120;\n\n    v = (oct * 12) + adj0 + pc0;    poke(pitchclasses, v / 120, base + 0);\n    v = (oct * 12) + adj1 + pc1;    poke(pitchclasses, v / 120, base + 1);\n    v = (oct * 12) + adj2 + pc2;    poke(pitchclasses, v / 120, base + 2);\n    v = (oct * 12) + adj3 + pc3;    poke(pitchclasses, v / 120, base + 3);\n    v = (oct * 12) + adj4 + pc4;    poke(pitchclasses, v / 120, base + 4);\n    v = (oct * 12) + adj5 + pc5;    poke(pitchclasses, v / 120, base + 5);\n    v = (oct * 12) + adj6 + pc6;    poke(pitchclasses, v / 120, base + 6);\n    v = (oct * 12) + adj7 + pc7;    poke(pitchclasses, v / 120, base + 7);\n    v = (oct * 12) + adj8 + pc8;    poke(pitchclasses, v / 120, base + 8);\n    v = (oct * 12) + adj9 + pc9;    poke(pitchclasses, v / 120, base + 9);\n    v = (oct * 12) + adj10 + pc10;  poke(pitchclasses, v / 120, base + 10);\n    v = (oct * 12) + adj11 + pc11;  poke(pitchclasses, v / 120, base + 11);\n}",
+                        "safemath": 1
                     },
                     "rnbo_serial": 1,
                     "rnbo_uniqueid": "codebox_obj-1",

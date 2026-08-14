@@ -9,6 +9,39 @@
     "embed": 0,
     "snapshot": {
         "__sps": {
+            "TriggerSequencer": {
+                "TriggerDuration": {
+                    "value": 10.0
+                },
+                "Steps": {
+                    "value": 65535.0
+                },
+                "Direction": {
+                    "value": 0.0
+                },
+                "__sps": {
+                    "Clock": {
+                        "ClockInterval": {
+                            "value": 240.0
+                        },
+                        "Swing": {
+                            "value": 0.0
+                        },
+                        "SwingAmt": {
+                            "value": 0.5
+                        },
+                        "Clock": {
+                            "value": 1.0
+                        }
+                    }
+                },
+                "MaxCnt": {
+                    "value": 15.0
+                },
+                "TriggerSource": {
+                    "value": 0.0
+                }
+            },
             "2LFO": {
                 "Subdivisions": {
                     "value": 7.0
@@ -77,7 +110,6 @@
                     "value": 0.0
                 }
             },
-            "TriggerSeq": {            },
             "1LFO": {
                 "Subdivisions": {
                     "value": 7.0
@@ -103,7 +135,7 @@
             }
         },
         "TempoBPM": {
-            "value": 120.0
+            "value": 116.0
         },
         "TriggerOutputVoltage": {
             "value": 0.0
