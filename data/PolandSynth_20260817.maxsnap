@@ -1,0 +1,135 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "PolandSynth",
+    "origin": "FrenchHorn",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "FrenchHorn": [
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 250.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 5.0
+                    }
+                }
+            ]
+        },
+        "OutputVolume": {
+            "value": 0.0
+        },
+        "HPFFreq": {
+            "value": 0.0
+        },
+        "__presetid": "FrenchHorn"
+    }
+}

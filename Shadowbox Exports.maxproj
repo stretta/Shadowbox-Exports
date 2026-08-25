@@ -2,8 +2,8 @@
     "name": "Shadowbox Exports",
     "version": 1,
     "creationdate": 3857726807,
-    "modificationdate": 3868640876,
-    "viewrect": [ 24.0, 98.0, 300.0, 500.0 ],
+    "modificationdate": 3869773108,
+    "viewrect": [ 14.0, 90.0, 300.0, 500.0 ],
     "autoorganize": 1,
     "hideprojectwindow": 0,
     "showdependencies": 1,
@@ -16,15 +16,15 @@
                 "toplevel": 1,
                 "disclosed": 0
             },
-            "Element.rnbopat": {
-                "kind": "rnbopat",
-                "local": 1
-            },
             "LFO.rnbopat": {
                 "kind": "rnbopat",
                 "local": 1
             },
             "Quantizer.rnbopat": {
+                "kind": "rnbopat",
+                "local": 1
+            },
+            "Element.rnbopat": {
                 "kind": "rnbopat",
                 "local": 1
             },

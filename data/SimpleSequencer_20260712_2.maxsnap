@@ -10,7 +10,7 @@
     "snapshot": {
         "__sps": {
             "p_obj-8": {            },
-            "Clock[1]": {
+            "Clock": {
                 "ClockInterval": {
                     "value": 240.0
                 },

@@ -1,0 +1,159 @@
+{
+    "filetype": "C74Snapshot",
+    "version": 2,
+    "minorversion": 0,
+    "name": "PolandSynth",
+    "origin": "Violin",
+    "type": "rnbo",
+    "subtype": "",
+    "embed": 0,
+    "snapshot": {
+        "__sps": {
+            "Violin": [
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                },
+                {
+                    "Release": {
+                        "value": 1000.0
+                    },
+                    "Sustain": {
+                        "value": 100.0
+                    },
+                    "Decay": {
+                        "value": 200.0
+                    },
+                    "Attack": {
+                        "value": 10.0
+                    },
+                    "Spread": {
+                        "value": 50.0
+                    }
+                }
+            ]
+        },
+        "OutputVolume": {
+            "value": 0.0
+        },
+        "HPFFreq": {
+            "value": 0.0
+        },
+        "__presetid": "Violin"
+    }
+}
