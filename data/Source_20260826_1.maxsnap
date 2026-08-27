@@ -3,11 +3,14 @@
     "version": 2,
     "minorversion": 0,
     "name": "Source",
-    "origin": "ShadowScoreClient",
+    "origin": "ShadowScoreClient-old2",
     "type": "rnbo",
     "subtype": "",
     "embed": 0,
     "snapshot": {
-        "__presetid": "ShadowScoreClient"
+        "Clock": {
+            "value": 0.0
+        },
+        "__presetid": "ShadowScoreClient-old2"
     }
 }

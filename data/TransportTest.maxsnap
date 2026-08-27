@@ -2,12 +2,15 @@
     "filetype": "C74Snapshot",
     "version": 2,
     "minorversion": 0,
-    "name": "Source",
-    "origin": "ShadowScoreClient",
+    "name": "TransportTest",
+    "origin": "TransportTest",
     "type": "rnbo",
     "subtype": "",
     "embed": 0,
     "snapshot": {
-        "__presetid": "ShadowScoreClient"
+        "Clock": {
+            "value": 1.0
+        },
+        "__presetid": "TransportTest"
     }
 }
